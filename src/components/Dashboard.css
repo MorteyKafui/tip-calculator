@@ -1,0 +1,50 @@
+.part-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: var(--dark-color);
+  color: var(--white-color);
+  max-width: 100rem;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.4);
+}
+
+.part-two .item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.part-two .item {
+  font-size: 1.5rem;
+}
+
+.part-two .item span {
+  color: var(--light-gray-color);
+}
+
+.part-two .amount {
+  margin-left: 5rem;
+}
+
+.part-two .amount span {
+  color: var(--primary-color);
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 0.5rem;
+}
+
+.part-two button {
+  border: none;
+  color: var(--dark-color);
+  background-color: var(--primary-color);
+  font-size: 2rem;
+  text-transform: uppercase;
+  padding: 2rem 3rem;
+  border-radius: 10px;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  cursor: pointer;
+  width: 100%;
+}
