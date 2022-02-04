@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MorteyKafui/tip-calculator.git/static/css/main.b69e3f5b.css",
+    "main.js": "/MorteyKafui/tip-calculator.git/static/js/main.d4131a31.js",
+    "static/js/787.4caf4d06.chunk.js": "/MorteyKafui/tip-calculator.git/static/js/787.4caf4d06.chunk.js",
+    "index.html": "/MorteyKafui/tip-calculator.git/index.html",
+    "main.b69e3f5b.css.map": "/MorteyKafui/tip-calculator.git/static/css/main.b69e3f5b.css.map",
+    "main.d4131a31.js.map": "/MorteyKafui/tip-calculator.git/static/js/main.d4131a31.js.map",
+    "787.4caf4d06.chunk.js.map": "/MorteyKafui/tip-calculator.git/static/js/787.4caf4d06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69e3f5b.css",
+    "static/js/main.d4131a31.js"
+  ]
+}
